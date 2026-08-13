@@ -13,7 +13,7 @@ e resolvendo desafios do dia a dia em ambientes de TI.
 <h2> Interesses</h2>
 
 <ul>
-  <li> Banco de Dados</li>
+  <li> Informática Forense </li>
   <li>Resolução de Problemas</li>
   <li> Segurança da Informação</li>
   <li> Suporte e Atendimento em TI</li>
