@@ -4,7 +4,7 @@
 
 
 <p>
-Estudante de <strong>Engenharia da Computação (3º período)</strong> e estagiária no 
+Estudante de <strong>Engenharia da Computação (4º período)</strong> e estagiária no 
 <strong>Núcleo de Atendimento da SETIC</strong>. Atualmente estou desenvolvendo meus 
 conhecimentos em tecnologia enquanto ganho experiência prática ajudando usuários 
 e resolvendo desafios do dia a dia em ambientes de TI.
