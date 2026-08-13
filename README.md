@@ -14,15 +14,15 @@ e resolvendo desafios do dia a dia em ambientes de TI.
 
 <ul>
   <li> Informática Forense </li>
-  <li>Resolução de Problemas</li>
+  <li> Cibersegurança</li>
   <li> Segurança da Informação</li>
-  <li> Suporte e Atendimento em TI</li>
+  <li> Ethical-hacking</li>
 </ul>
 
 <h2> Atualmente estudando</h2>
 
 <p>
-Conceitos fundamentais de computação, banco de dados, segurança da informação 
+Conceitos fundamentais de computação, segurança da informação 
 e boas práticas para suporte técnico e resolução eficiente de problemas.
 </p>
 
